@@ -1,0 +1,46 @@
+[
+    {
+        "brand": "Rolex",
+        "model": "Submariner",
+        "case_material": "Stainless Steel",
+        "dial_color": "Black",
+        "movement": "Automatic",
+        "price": 8000
+      },
+      {
+        "brand": "Omega",
+        "model": "Speedmaster",
+        "case_material": "Stainless Steel",
+        "dial_color": "Black",
+        "movement": "Manual",
+        "price": 6000
+      },
+      {
+        "brand": "Tag Heuer",
+        "model": "Carrera",
+        "case_material": "Stainless Steel",
+        "dial_color": "Blue",
+        "movement": "Automatic",
+        "price": 4500
+      },
+      {
+        "brand": "Seiko",
+        "model": "Prospex",
+        "case_material": "Stainless Steel",
+        "dial_color": "Green",
+        "movement": "Automatic",
+        "price": 1000
+      },
+      {
+        "brand": "Patek Philippe",
+        "model": "Nautilus",
+        "case_material": "Rose Gold",
+        "dial_color": "Blue",
+        "movement": "Automatic",
+        "price": 30000
+      }
+      
+      
+      
+      
+]
